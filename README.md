@@ -1,6 +1,6 @@
 # Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
-## `Hello there everybody, after many hours of frustration I finally managed to get this site to work in a blinding flash eureka .`
+## `Hello there everybody, welcome to my personal website repository!.`
 
 This website is my personal blog and portfolio site where I will be showcasing all of my projects as well as blogging regularly on things that I have learned [my Linkedin](http://vangeltzo.com/) 
 
