@@ -1,4 +1,4 @@
-# Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# Nez Mustafa's website/blog/portfolio
   
 ## `Hello there everybody, welcome to my personal website repository!.`
 
