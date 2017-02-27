@@ -1,0 +1,39 @@
+- title: Todo list app
+  url: http://taylantatli.me/Halve
+  image: /images/todoapp.jpg
+  completed: true
+
+- title: Andy OSullivan
+  url: http://taylantatli.me/Moon
+  image: /images/andy_website.jpg
+  completed: true
+
+- title: Javascript drumkit
+  url: http://taylantatli.me/Ramme
+  image: /images/drumkit.jpg
+  completed: false
+
+- title: Javascript clock
+  url: http://taylantatli.me/Daisy-Pelican-Theme/
+  image: /images/clock.jpg
+  completed: false
+
+- title: Block Icon Theme
+  url: https://github.com/TaylanTatli/Block-Icon-Theme
+  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  completed: false
+
+- title: Start Page
+  url: http://taylantatli.me/StartPage/
+  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  completed: false
+
+- title: Start Page
+  url: http://taylantatli.me/StartPage/
+  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  completed: false
+
+- title: Javascript Calculator
+  url: http://taylantatli.me/StartPage/
+  image: /images/calculator.jpg
+  completed: false
