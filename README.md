@@ -1,22 +1,15 @@
 # Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
+## `Hello there everybody, after many hours of frustration I finally managed to get this site to work in a blinding flash eureka .`
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+This website is my personal blog and portfolio site where I will be showcasing all of my projects as well as blogging regularly on things that I have learned [my Linkedin](http://vangeltzo.com/) 
 
-To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
+Anyone who wishes to get in touch with me regarding work, projects or for more information can do so there.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+If you have a question, please send me a message telling me who you are and what you have in mind. 
 
-## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
-
-See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
-
-# Credits
-- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
-- Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
-- Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
+# Owner
+- Nez Mustafa
 
 ### Others
 - [Jekyll](http://jekyllrb.com/)
