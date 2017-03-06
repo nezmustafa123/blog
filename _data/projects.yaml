@@ -23,7 +23,7 @@
   image: /images/teamblog.jpg
   completed: false
 
-- title: Start Page
+- title: Wikipedia viewer
   url: http://taylantatli.me/StartPage/
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
