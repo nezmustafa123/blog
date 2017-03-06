@@ -28,9 +28,9 @@
   image: /images/wikipediaviewer.jpg
   completed: false
 
-- title: Start Page
+- title: Twitch tv API
   url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: images/twitchtv.jpg
   completed: false
 
 - title: Javascript Calculator
