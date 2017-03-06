@@ -25,7 +25,7 @@
 
 - title: Wikipedia viewer
   url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: /images/wikipediaviewer.jpg
   completed: false
 
 - title: Start Page
