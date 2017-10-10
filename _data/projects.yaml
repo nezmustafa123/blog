@@ -18,22 +18,22 @@
   image: /images/clock.jpg
   completed: false
 
-- title: Block Icon Theme
+- title: Team blog
   url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  image: /images/teamblog.jpg
   completed: false
 
-- title: Start Page
+- title: Wikipedia viewer
   url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: /images/wikipediaviewer.jpg
   completed: false
 
-- title: Start Page
+- title: Twitch tv API
   url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: images/twitchtv.jpg
   completed: false
 
 - title: Javascript Calculator
   url: http://taylantatli.me/StartPage/
-  image: /images/calculator.jpg
+  image: /images/javascriptcalculator.jpg
   completed: false
