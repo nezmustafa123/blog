@@ -5,8 +5,6 @@ url:      https://nezmustafa123.github.io/blog/
 baseurl: "blog"
 logo: halve.png                                       # Site logo
 locale: en_US
-plugins:
-  - jekyll-seo-tag
 
 # Left Block Images
 background:
