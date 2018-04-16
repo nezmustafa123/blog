@@ -2,7 +2,7 @@
 title: Nez Mustafa, web and app developer.
 description: Nez Mustafa portfolio and blog
 url:      https://nezmustafa123.github.io/blog/
-baseurl: "blog"
+baseurl: ""
 logo: halve.png                                       # Site logo
 locale: en_US
 
