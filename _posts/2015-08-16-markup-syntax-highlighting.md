@@ -77,3 +77,7 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 An example of a Gist embed below.
 
 {% gist e813c2560b0f1ecc9f5d pacman.patch %}
+
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
+
+
