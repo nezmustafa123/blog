@@ -78,5 +78,5 @@ An example of a Gist embed below.
 
 {% gist e813c2560b0f1ecc9f5d pacman.patch %}
 
-{% gist 11c0d63428b108f10c83 pacmna.patch %}
+{% gist 11c0d63428b108f10c83 pacman.patch %}
 

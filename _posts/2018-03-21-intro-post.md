@@ -11,7 +11,7 @@ tags:
   - computers
 ---
 
-#Introductory post
+# Introductory post
 
 ## As it says on the tin, this blog will mainly be about cyber security with some web development and computer science concepts thrown in.
 
