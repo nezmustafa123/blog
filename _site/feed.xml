@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-01T11:50:37+00:00</updated><id>http://localhost:4000/</id><title type="html">Nez Mustafa, web and app developer.</title><subtitle>Nez Mustafa portfolio and blog</subtitle><entry><title type="html">A taste of what’s to come.</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="A taste of what’s to come." /><published>2017-02-27T00:00:00+00:00</published><updated>2017-02-27T00:00:00+00:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;h2 id=&quot;as-it-says-on-the-tin-this-blog-will-mainly-be-about-cyber-security-with-some-web-development-and-computer-science-concepts-thrown-in&quot;&gt;As it says on the tin, this blog will mainly be about cyber security with some web development and computer science concepts thrown in.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-13T13:46:17+01:00</updated><id>http://localhost:4000/</id><title type="html">Nez Mustafa, web and app developer.</title><subtitle>Nez Mustafa portfolio and blog</subtitle><entry><title type="html">What are computers</title><link href="http://localhost:4000/post/computers" rel="alternate" type="text/html" title="What are computers" /><published>2019-09-13T00:00:00+01:00</published><updated>2019-09-13T00:00:00+01:00</updated><id>http://localhost:4000/post/computers</id><content type="html" xml:base="http://localhost:4000/post/computers"></content><author><name></name></author><category term="computers post" /><category term="excerpt" /><category term="tech security" /><category term="cybersecurity" /><category term="techsecurity" /><category term="computers" /><category term="computer science" /><summary type="html">Computers intro</summary></entry><entry><title type="html">Another testing post</title><link href="http://localhost:4000/intro-post/" rel="alternate" type="text/html" title="Another testing post" /><published>2018-03-21T00:00:00+00:00</published><updated>2018-03-21T00:00:00+00:00</updated><id>http://localhost:4000/intro-post</id><content type="html" xml:base="http://localhost:4000/intro-post/">&lt;h1 id=&quot;introductory-post&quot;&gt;Introductory post&lt;/h1&gt;
+
+&lt;h2 id=&quot;as-it-says-on-the-tin-this-blog-will-mainly-be-about-cyber-security-with-some-web-development-and-computer-science-concepts-thrown-in&quot;&gt;As it says on the tin, this blog will mainly be about cyber security with some web development and computer science concepts thrown in.&lt;/h2&gt;
+
+&lt;p&gt;My name is Nez Mustafa and I am a self taught web developer with a strong interest and passion for cyber-security (infosec), cryptography and technology in general. As I embark on my arduous but rewarding journey I will post anything I learn on this blog as a way to both showcase and reinforce what I have learned as well as providing information to others who are also on the same sinuous path as I. My intention is for this to be a as much of an information-rich reference point as possible.&lt;/p&gt;
+
+&lt;p&gt;If you wish to look at some of my projects you can navigate to the projects section of this site.&lt;/p&gt;
+
+&lt;p&gt;Without further ado let’s begin. My next few blog posts will cover the fundamentals of computers and computer science before I delve into coding and infosec.&lt;/p&gt;
+
+&lt;p&gt;I am grateful to be sharing my journey with you.&lt;/p&gt;</content><author><name></name></author><category term="intro post" /><category term="excerpt" /><category term="tech security" /><category term="cybersecurity" /><category term="techsecurity" /><category term="computers" /><summary type="html">Testing</summary></entry><entry><title type="html">A taste of what’s to come.</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="A taste of what’s to come." /><published>2017-02-27T00:00:00+00:00</published><updated>2017-02-27T00:00:00+00:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;h2 id=&quot;as-it-says-on-the-tin-this-blog-will-mainly-be-about-cyber-security-with-some-web-development-and-computer-science-concepts-thrown-in&quot;&gt;As it says on the tin, this blog will mainly be about cyber security with some web development and computer science concepts thrown in.&lt;/h2&gt;
 
 &lt;p&gt;My name is Nez Mustafa and I am an aspiring web and app developer with a strong interest and passion for cyber security and cryptography, as I progress on my arduous but exciting journey to break into the tech world and become a professional developer working (hopefully one day) in tech security, I will post anything I learn on this blog as a way to both showcase and reinforce what I have learned as well as giving information to others who are also on the same journey.&lt;/p&gt;
 
@@ -69,167 +79,7 @@ In any case its seems impossible to escape the bombardment of http://www.com‘s
 
 &lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
 
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;</content><author><name></name></author><category term="intro post" /><category term="excerpt" /><category term="tech security" /><category term="cybersecurity" /><category term="techsecurity" /><category term="computers" /><summary type="html">A taste of what's to come.</summary></entry><entry><title type="html">Halve Jekyll Theme</title><link href="http://localhost:4000/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00+01:00</published><updated>2016-05-29T00:00:00+01:00</updated><id>http://localhost:4000/halve-theme</id><content type="html" xml:base="http://localhost:4000/halve-theme/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This theme is Jekyll port of &lt;a href=&quot;http://vangeltzo.com/&quot;&gt;vangeltzo.com&lt;/a&gt; (by &lt;a href=&quot;https://github.com/srekoble&quot;&gt;Vangelis Tzortzis&lt;/a&gt;). I couldn’t stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Halve&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;installation-and-quick-usage&quot;&gt;Installation and Quick Usage&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/TaylanTatli/Halve/fork&quot;&gt;Halve repo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;index.md&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add a logo with a small one to &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder. (eg. &lt;code class=&quot;highlighter-rouge&quot;&gt;logo.png&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;logo-small.png&lt;/code&gt;)&lt;/li&gt;
-  &lt;li&gt;Remove sample posts from &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder and add yours.&lt;/li&gt;
-  &lt;li&gt;Remove/Change sample images from &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder.&lt;/li&gt;
-  &lt;li&gt;Change repo name to &lt;code class=&quot;highlighter-rouge&quot;&gt;YourUserName.github.io&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s all.&lt;/p&gt;
-
-&lt;p&gt;If you want to make a &lt;strong&gt;Project Page&lt;/strong&gt;, you have to use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch. For &lt;strong&gt;Personal Page&lt;/strong&gt;; &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. More info &lt;a href=&quot;https://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;preview&quot;&gt;Preview&lt;/h2&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/halve-home-image.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/post-image-halve-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/post-image-halve-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Screenshots of Halve Theme&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/post-image-halve-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/post-image-halve-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://localhost:4000/images/post-image-halve-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Mobile view of Halve Theme&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;See a &lt;a href=&quot;http://taylantatli.github.io/Halve&quot;&gt;live version of Halve&lt;/a&gt; hosted on GitHub.&lt;/p&gt;
-
-&lt;h2 id=&quot;site-setup&quot;&gt;Site Setup&lt;/h2&gt;
-&lt;p&gt;A quick checklist of the files you’ll want to edit to get up and running.&lt;/p&gt;
-
-&lt;h3 id=&quot;site-wide-configuration&quot;&gt;Site Wide Configuration&lt;/h3&gt;
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; is your friend. Open it up and personalize it. Most variables are self explanatory but here’s an explanation of each if needed:&lt;/p&gt;
-
-&lt;h4 id=&quot;title&quot;&gt;title&lt;/h4&gt;
-
-&lt;p&gt;The title of your site… shocker!&lt;/p&gt;
-
-&lt;p&gt;Example &lt;code class=&quot;highlighter-rouge&quot;&gt;title: My Awesome Site&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;description&quot;&gt;description&lt;/h4&gt;
-
-&lt;p&gt;The description to use for meta tags and homepage.&lt;/p&gt;
-
-&lt;h4 id=&quot;url&quot;&gt;url&lt;/h4&gt;
-
-&lt;p&gt;Used to generate absolute urls in &lt;code class=&quot;highlighter-rouge&quot;&gt;sitemap.xml&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and for generating canonical URLs in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. When developing locally either comment this out or use something like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt; so all assets load properly. &lt;em&gt;Don’t include a trailing &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Examples:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Halve&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://localhost:4000&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;//cooldude.github.io&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;logo&quot;&gt;logo&lt;/h4&gt;
-&lt;p&gt;Your site’s logo. It will be shown on homepage. Also used for twitter meta tags.&lt;/p&gt;
-
-&lt;h4 id=&quot;background&quot;&gt;background&lt;/h4&gt;
-&lt;p&gt;Here we will set images for left block. Example:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;background:
-  homepage: images/home.png
-  post-list: images/unsplash-image-10.jpg
-  default-post: images/unsplash-gallery-image-3.jpg 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;homepage&lt;/dt&gt;
-  &lt;dd&gt;Is for homepage background image.&lt;/dd&gt;
-  &lt;dt&gt;post-list&lt;/dt&gt;
-  &lt;dd&gt;Is for posts list page background image.&lt;/dd&gt;
-  &lt;dt&gt;default-post&lt;/dt&gt;
-  &lt;dd&gt;Is for posts' default background image. It will be shown for every posts that don't specify any image from post's YAML front matter.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;projects-overlay&quot;&gt;Projects Overlay&lt;/h3&gt;
-
-&lt;p&gt;To set what image links appear in the overlay menu edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;. Use the following format to set the URL, title, image and project status for as many links as you’d like. If you set &lt;code class=&quot;highlighter-rouge&quot;&gt;completed&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt; like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: false&lt;/code&gt;, it won’t be clickable until you set it true like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: true&lt;/code&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Moon Jekyll Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Moon&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
-
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Ramme Jekyll Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Ramme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
-
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Daisy Pelican Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Daisy-Pelican-Theme/&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
-
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Block Icon Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://github.com/TaylanTatli/Block-Icon-Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;
-
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Start Page&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/StartPage/&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;layouts-and-content&quot;&gt;Layouts and Content&lt;/h2&gt;
-
-&lt;p&gt;Halve Theme use &lt;a href=&quot;https://github.com/penibelst/jekyll-compress-html&quot;&gt;Jekyll Compress&lt;/a&gt; to compress html output. But it can cause errors if you use “linenos” (line numbers). I suggest don’t use line numbers for codes, because it won’t look good with this theme, also i didn’t give a proper style for them. If you insist to use line numbers, just remove &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: compress&lt;/code&gt; string from layouts. It will disable compressing.&lt;/p&gt;
-
-&lt;h3 id=&quot;images-for-posts&quot;&gt;Images for Posts&lt;/h3&gt;
-
-&lt;p&gt;You can set left block image per post. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;image: some link&lt;/code&gt; to your post’s front matter. If you don’t set this, default post image will be used from &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;image: /assets/img/some-image.png
-or
-image: http://example.com/some-image.png
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;This also will be used for twitter card:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/post-image-halve-5.png&quot; alt=&quot;Halve Twitter Card&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
-
-&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/TaylanTatli/Halve/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="halve" /><category term="blog" /><category term="vangeltzo" /><category term="theme" /><category term="vangelis" /><summary type="html">Stylish, two-column Jekyll theme for your blog.</summary></entry><entry><title type="html">Markup: Text Readability Test</title><link href="http://localhost:4000/markup-text-readability/" rel="alternate" type="text/html" title="Markup: Text Readability Test" /><published>2016-05-22T00:00:00+01:00</published><updated>2016-05-22T00:00:00+01:00</updated><id>http://localhost:4000/markup-text-readability</id><content type="html" xml:base="http://localhost:4000/markup-text-readability/">&lt;p&gt;Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing.&lt;/p&gt;
+&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;</content><author><name></name></author><category term="intro post" /><category term="excerpt" /><category term="tech security" /><category term="cybersecurity" /><category term="techsecurity" /><category term="computers" /><summary type="html">A taste of what's to come.</summary></entry><entry><title type="html">Markup: Text Readability Test</title><link href="http://localhost:4000/markup-text-readability/" rel="alternate" type="text/html" title="Markup: Text Readability Test" /><published>2016-05-22T00:00:00+01:00</published><updated>2016-05-22T00:00:00+01:00</updated><id>http://localhost:4000/markup-text-readability</id><content type="html" xml:base="http://localhost:4000/markup-text-readability/">&lt;p&gt;Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing.&lt;/p&gt;
 
 &lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
 
@@ -320,13 +170,12 @@ end&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Now do this:&lt;/p&gt;
 
-    &lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;Now you can do this.&lt;/li&gt;
 &lt;/ol&gt;
@@ -339,10 +188,14 @@ end&lt;/p&gt;
 &lt;/pre&gt;&lt;/noscript&gt;
 &lt;script src=&quot;https://gist.github.com/e813c2560b0f1ecc9f5d.js?file=pacman.patch&quot;&gt; &lt;/script&gt;
 
+&lt;noscript&gt;&lt;pre&gt;400: Invalid request
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/11c0d63428b108f10c83.js?file=pacman.patch&quot;&gt; &lt;/script&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name></name></author><category term="code" /><category term="Honeypot" /><category term="syntax highlighting" /><summary type="html">Post displaying the various ways of highlighting code in Markdown.</summary></entry><entry><title type="html">Markup: Another Post with Images</title><link href="http://localhost:4000/markup-more-images/" rel="alternate" type="text/html" title="Markup: Another Post with Images" /><published>2014-05-22T00:00:00+01:00</published><updated>2014-05-22T00:00:00+01:00</updated><id>http://localhost:4000/markup-more-images</id><content type="html" xml:base="http://localhost:4000/markup-more-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -362,13 +215,12 @@ end&lt;/p&gt;
 
 &lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;half&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;half&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
 
@@ -382,14 +234,13 @@ end&lt;/p&gt;
 
 &lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;third&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;third&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-3.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
 
@@ -602,9 +453,8 @@ Available values: [1..3].&lt;/li&gt;
 
 &lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn_success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn_success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;
 &lt;a href=&quot;#&quot; class=&quot;btn btn_success&quot;&gt;Success Button&lt;/a&gt;
@@ -612,17 +462,16 @@ Available values: [1..3].&lt;/li&gt;
 &lt;a href=&quot;#&quot; class=&quot;btn btn_danger&quot;&gt;Danger Button&lt;/a&gt;
 &lt;a href=&quot;#&quot; class=&quot;btn btn_info&quot;&gt;Info Button&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Primary Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn}
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Primary Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn}
 &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Success Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_success}
 &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Warning Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_warning}
 &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Danger Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_danger}
 &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Info Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_info}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;
 
 &lt;h2 id=&quot;html-tags&quot;&gt;HTML Tags&lt;/h2&gt;
 
@@ -772,429 +621,4 @@ Available values: [1..3].&lt;/li&gt;
 
 &lt;h3 id=&quot;justify-align&quot;&gt;Justify Align&lt;/h3&gt;
 
-&lt;p style=&quot;text-align: justify;&quot;&gt;This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.&lt;/p&gt;</content><author><name></name></author><category term="alignment" /><category term="content" /><category term="css" /><category term="markup" /><summary type="html">Default</summary></entry><entry><title type="html">Markup: Title with Special — Characters</title><link href="http://localhost:4000/markup-title-with-special-characters/" rel="alternate" type="text/html" title="Markup: Title with Special&amp;nbsp;---&amp;nbsp;Characters" /><published>2013-01-05T00:00:00+00:00</published><updated>2013-01-05T00:00:00+00:00</updated><id>http://localhost:4000/markup-title-with-special-characters</id><content type="html" xml:base="http://localhost:4000/markup-title-with-special-characters/">&lt;p&gt;Putting special characters in the title should have no adverse effect on the layout or functionality.&lt;/p&gt;
-
-&lt;p&gt;Special characters in the post title have been known to cause issues with JavaScript and XML when not properly encoded and escaped.&lt;/p&gt;
-
-&lt;h2 id=&quot;latin-character-tests&quot;&gt;Latin Character Tests&lt;/h2&gt;
-
-&lt;p&gt;This is a test to see if the fonts used in this theme support basic Latin characters.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      !
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;#8220;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      #
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      $
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      %
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;amp;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;#8216;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      (
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      )
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      *
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      +
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      ,
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;#8211;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      .
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      /
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      1
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      2
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      5
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      6
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      7
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      8
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      9
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      :
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      ;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      =
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      &amp;lt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      ?
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      @
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      A
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      B
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      C
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      D
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      E
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      F
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      G
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      H
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      I
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      J
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      K
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      L
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      M
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      N
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      O
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      P
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Q
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      R
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      S
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      T
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      U
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      V
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      W
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      X
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Y
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Z
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      [
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      ]
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      ^
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      _
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      `
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      a
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      b
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      c
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      d
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      e
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      f
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      g
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      h
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      i
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      j
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      k
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      l
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      m
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      n
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      o
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      p
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      q
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      r
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      s
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      t
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      u
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      v
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      w
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      x
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      y
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      z
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      {
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      |
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      }
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      ~
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="html" /><category term="markup" /><category term="post" /><category term="title" /><summary type="html">Putting special characters in the title should have no adverse effect on the layout or functionality.</summary></entry><entry><title type="html">Markup: Title *with* **Markdown**</title><link href="http://localhost:4000/markup-title-with-markup/" rel="alternate" type="text/html" title="Markup: Title *with* **Markdown**" /><published>2013-01-05T00:00:00+00:00</published><updated>2013-01-05T00:00:00+00:00</updated><id>http://localhost:4000/markup-title-with-markup</id><content type="html" xml:base="http://localhost:4000/markup-title-with-markup/">&lt;p&gt;Verify that:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The post title renders the word “with” in &lt;em&gt;italics&lt;/em&gt; and the word “Markdown” in &lt;strong&gt;bold&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;The post title markup should be removed from the browser window / tab.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="css" /><category term="html" /><category term="title" /><summary type="html">Verify that:</summary></entry></feed>
+&lt;p style=&quot;text-align: justify;&quot;&gt;This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.&lt;/p&gt;</content><author><name></name></author><category term="alignment" /><category term="content" /><category term="css" /><category term="markup" /><summary type="html">Default</summary></entry></feed>
