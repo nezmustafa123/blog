@@ -9,7 +9,7 @@ Welcome to my site where I post every bit of what I learn one btye at a time. I 
 
 I have various certifications in web development and continue to work towards others that relate to Computer Science and Computer Networks in addition to other programming languages such as Python.
 
-![alt text](/images/javascriptcalculator.jpg "Javascript Algorithms Certificate")
+![alt text](/images/javascript.jpg "Javascript Algorithms Certificate")
 
 
 
