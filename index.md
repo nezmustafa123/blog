@@ -12,9 +12,9 @@ I have various certifications in web development and continue to work towards ot
 
 My certificates and qualifications include the following:
 
-## JavaScript Algorithms and Data Structures from freeCodeCamp
+### JavaScript Algorithms and Data Structures from freeCodeCamp
 
-![alt text](https://www.freecodecamp.org/certification/nezmustafa123/javascript-algorithms-and-data-structures "Javascript Algorithms Certificate")
+[Javascript Algorithms](https://www.freecodecamp.org/certification/nezmustafa123/javascript-algorithms-and-data-structures)
 
 
 
