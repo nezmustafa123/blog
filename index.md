@@ -13,17 +13,13 @@ I have various certifications in web development and continue to work towards ot
 My certificates and qualifications include the following:
 
 
-
-#### Responsive Web Design from freeCodeCamp
-
+### Responsive Web Design from freeCodeCamp
 
 [Responsive Web Design Certificate link](https://www.freecodecamp.org/certification/nezmustafa123/javascript-algorithms-and-data-structures)
 
-
-#### JavaScript Algorithms and Data Structures from freeCodeCamp
+### JavaScript Algorithms and Data Structures from freeCodeCamp
 
 [Javascript Algorithms Certificate link](https://www.freecodecamp.org/certification/nezmustafa123/javascript-algorithms-and-data-structures)
-
 
 ### Front End Libraries
 
