@@ -1,11 +1,23 @@
-- title: Todo list app
-  url: http://taylantatli.me/Halve
-  image: /images/todoapp.jpg
+- title: KibrisOnline
+  url: https://www.kibrisonline.com/
+  image: /images/kibris.jpg
   completed: true
 
 - title: Andy OSullivan
   url: http://taylantatli.me/Moon
   image: /images/andy_website.jpg
+  completed: true
+  
+- title: Class Auto
+  url: https://classauto.pro/
+  image: /images/class-auto.jpg
+  completed: true
+  
+  
+  
+- title: Todo list app
+  url: http://taylantatli.me/Halve
+  image: /images/todoapp.jpg
   completed: true
 
 - title: Javascript drumkit

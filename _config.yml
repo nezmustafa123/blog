@@ -32,10 +32,11 @@ defaults:
   scope: 
   #storing path
   #if left blank if will apply to all the postsd in the sites
-     path: ""
-     type: "post"
+     path: "_posts"
+#     type: "post"
   values: 
        layout: "post"
+	   type: "post"
 
 # Google Analytics
 #google-analytics: UA-XXXXX-Y
