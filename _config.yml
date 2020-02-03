@@ -34,8 +34,8 @@ defaults:
   #if left blank if will apply to all the postsd in the sites
      path: "_posts"
 #     type: "post"
-  values: 
-       layout: "post"
+#  values: 
+#       layout: "post"
 #	   type: "post"
 
 # Google Analytics
