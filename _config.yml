@@ -26,17 +26,15 @@ sass:
   sass_dir:         assets/_sass
   style:            compressed
 
-
+#storing path
+  #if left blank if will apply to all the posts in the site
 defaults: 
  -
   scope: 
-  #storing path
-  #if left blank if will apply to all the postsd in the sites
-     path: "_posts"
-#     type: "post"
-#  values: 
-#       layout: "post"
-#	   type: "post"
+     path: ""
+   values: 
+       layout: "post"
+
 
 # Google Analytics
 #google-analytics: UA-XXXXX-Y
