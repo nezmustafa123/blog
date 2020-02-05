@@ -28,6 +28,12 @@
   image: /images/class-auto.jpg
   completed: true
   
+- title: Zafer Kupeste
+  url: http://solarcar.neu.edu.tr/
+  image: /images/class-auto.jpg
+  completed: true
+  
+  
 - title: Todo list app
   url: http://taylantatli.me/Halve
   image: /images/todoapp.jpg
