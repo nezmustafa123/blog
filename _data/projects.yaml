@@ -8,8 +8,28 @@
   image: /images/andy_website.jpg
   completed: true
   
+- title: Near East University Robotics
+  url: http://robotics.neu.edu.tr/
+  image: /images/robotics.jpg
+  completed: true
+  
+- title: Near East University Solar Car
+  url:  http://solarcar.neu.edu.tr/
+  image: /images/solar.jpg
+  completed: true
+  
+- title: Near East University 3D Laboratories
+  url: http://3d.neu.edu.tr/
+  image: /images/3dlabs.jpg
+  completed: true
+  
 - title: Class Auto
-  url: https://classauto.pro/
+  url: http://solarcar.neu.edu.tr/
+  image: /images/class-auto.jpg
+  completed: true
+  
+- title: Near East University Solar Car
+  url:  http://solarcar.neu.edu.tr/
   image: /images/class-auto.jpg
   completed: true
   
